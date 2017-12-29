@@ -1,0 +1,8 @@
+set a 10
+set b c
+sub a -3
+sub d b
+mul a 1
+mul a b
+jnz 10 2
+jnz a b
